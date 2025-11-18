@@ -1,1 +1,1 @@
-# CoughvidSVM_MsCAI2526
+# Covid Diagnosis via cough audio | MsC "Artificial Intelligence" - Machine Learning Term Project
